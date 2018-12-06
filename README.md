@@ -2,12 +2,12 @@
 
 **Gravity Odyssey** is a 2D platformer Android game taking place in space.
 
-**This is a dev version*** bugs may occurs
+**This is a Dev Version** bugs may occurs
 
 ### Download
 
-* [Download Link](https://github.com/Maugun/GravityOdyssey/releases) (Recommended)
-* [Web Version](https://maugun.github.io/GravityOdyssey/index.html) (Not optimal). Dialogues boxes texts don't work in the web version. Please click on it 3 times to close it (only in Level 1) 
+* [APK Download Link](https://github.com/Maugun/GravityOdyssey/releases) (Recommended)
+* [Web Version](https://maugun.github.io/GravityOdyssey/index.html) (Not optimal). Dialogues boxes texts don't work in the Web Version. Please click on it 3 times to close it (only in Level 1) 
 
 ## Built With
 
