@@ -4,7 +4,7 @@
 
 **This is a Dev Version** bugs may occurs
 
-### Download
+## Download
 
 * [APK Download Link](https://github.com/Maugun/GravityOdyssey/releases) (Recommended)
 * [Web Version](https://maugun.github.io/GravityOdyssey/index.html) (Not optimal). Dialogues boxes texts don't work in the Web Version. Please click on it 3 times to close it (only in Level 1) 
