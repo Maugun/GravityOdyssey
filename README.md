@@ -2,7 +2,7 @@
 
 **Gravity Odyssey** is a 2D platformer Android game taking place in space.
 
-**This is a Dev Version** bugs may occurs
+**This is a Dev Version** bugs may occurs !
 
 ## Download
 
