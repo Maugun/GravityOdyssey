@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+  <English>
+    <!-- Tests ############################################################ -->
+    <string name="Test">This is a test.</string>
+    <string name="Test2">This is an other test.</string>
+    
+    
+    <!-- Names ############################################################ -->
+    <string name="Name_UnknowName">?????</string>
+    
+    
+    <!-- Levels Dialogues ################################################# -->
+    <string name="Level_0_Dialogue_0">Welcome to Gravity Odyssey !</string>
+    <string name="Level_0_Dialogue_1">This is a dev version. Please know that bugs may occurs.</string>
+    <string name="Level_0_Dialogue_2">Hope you enjoy the game !</string>
+    
+    <string name="Level_1_Dialogue_0">... He...</string>
+    <string name="Level_1_Dialogue_1">...</string>
+    
+    <string name="Level_2_Dialogue_0">... Hello ? ...</string>
+    <string name="Level_2_Dialogue_1">Can.. hear.. me ?</string>
+    <string name="Level_2_Dialogue_2">...</string>
+	</English>
+  
+	<French>
+    <!-- Tests ############################################################ -->
+    <string name="Test">Ceci est un test.</string>
+    <string name="Test2">Ceci est un autre test.</string>
+    
+    
+    <!-- Names ############################################################ -->
+    <string name="Name_UnknowName">?????</string>
+    
+    
+    <!-- Levels Dialogues ################################################# -->
+    <string name="Level_0_Dialogue_0">Bienvenue dans Gravity Odyssey !</string>
+    <string name="Level_0_Dialogue_1">Ceci est une version de developpement. Sachez que des bugs peuvent se produire.</string>
+    <string name="Level_0_Dialogue_2">J'espere que vous apprecierez le jeu !</string>
+    
+    <string name="Level_1_Dialogue_0">... A...</string>
+    <string name="Level_1_Dialogue_1">...</string>
+    
+    <string name="Level_2_Dialogue_0">... Allo ? ...</string>
+    <string name="Level_2_Dialogue_1">Es-ce.. vous.. entendez ?</string>
+    <string name="Level_2_Dialogue_2">...</string>
+	</French>
+</Languages>
