@@ -1,6 +1,6 @@
 # Gravity Odyssey
 
-**Gravity Odyssey** is a 2D platformer Android game taking place in space.
+**Gravity Odyssey** is an Android 2D platform game set in space made with Unity3D.
 
 **This is a Dev Version** bugs may occurs !
 
@@ -25,12 +25,12 @@
 
 ### Select a Level
 
-* Press the "Start" button to play the "Story mode" (Level 1 to 14) or select a Level with the slider than press the "Start" button.
+* Press the "Start" button to play the "Story mode" (Level 1 to 14) or select a Level with the slider then press the "Start" button.
 Notice that Levels 15 & 16 are only available from the Level selector slider.
 
 ### Controls
 
-* Tap or click on your screen to Jump (hold to higher Jump)
+* Tap or click on your screen to Jump (hold to Jump higher)
 * Press the bottom-left button to change your moving direction
 * Press the top-right button to restart the current level
 * Press the "Main Menu" button to go back to the main menu
